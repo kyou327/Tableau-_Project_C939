@@ -13,6 +13,7 @@ I tried to keep the plots simple while also making the most efficient use of das
 In the geographic data, green marks lower numbers which are more accessible variables, whereas red marks larger values which would correlate to 
 less accessible variables. (ex. A state with deep red hue calculation for minutes equates to a very long wait time. A state with very green hue calculation 
 means a very short average wait time.)
+The aliases for delays and the metrics for individual states were both improved and added to allow for easier digestion of data without using the tooltip.
 
 ## Feedback
 
